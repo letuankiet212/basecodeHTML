@@ -1,0 +1,17 @@
+.text{
+  &-md{
+    font-size: $font-size-md;
+  }
+
+  &-center{
+    text-align: center;
+  }
+}
+
+
+.container{
+  width: 100%;
+  max-width: $width-container;
+  padding: 0 5px;
+  margin: 0 auto;
+}
